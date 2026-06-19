@@ -1,0 +1,6 @@
+{
+  "name": "MindOS",
+  "description": "An AI-powered mind extension that captures voice memories, organizes thoughts, searches your second brain, provides daily intelligence briefs, and coaches your priorities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
